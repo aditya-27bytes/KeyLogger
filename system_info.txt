@@ -1,0 +1,8 @@
+OS: Windows
+OS Version: 10.0.26100
+OS Release: 11
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+Machine: AMD64
+Hostname: Dell
+IP Address: 192.168.1.7
+User: adity
